@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Game Dev | Academic</title>
+    <link>http://localhost:1313/tag/game-dev/</link>
+      <atom:link href="http://localhost:1313/tag/game-dev/index.xml" rel="self" type="application/rss+xml" />
+    <description>Game Dev</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <title>Game Dev</title>
+      <link>http://localhost:1313/tag/game-dev/</link>
     </image>
     
     <item>
@@ -28,14 +28,6 @@
 &lt;h4 id=&#34;заключение&#34;&gt;Заключение&lt;/h4&gt;
 &lt;p&gt;Unreal Engine 5 превосходит своих предшественников в создании реалистичной графики благодаря ряду инновационных технологий. Глобальное освещение Lumen, технология Nanite и инструмент MetaHuman Creator позволяют разработчикам создавать игровые миры, которые почти неотличимы от реальности. С появлением Unreal Engine 5 игроки могут ожидать еще более захватывающих и увлекательных визуальных впечатлений в своих любимых играх.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>http://localhost:1313/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/external-project/</guid>
-      <description></description>
     </item>
     
   </channel>

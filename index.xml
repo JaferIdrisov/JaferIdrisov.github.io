@@ -33,6 +33,62 @@
     </item>
     
     <item>
+      <title>Unreal Engine 5. Почему графика такая реалистичная?</title>
+      <link>http://localhost:1313/project/example/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/example/</guid>
+      <description>&lt;h3 id=&#34;unreal-engine-5-почему-графика-такая-реалистичная&#34;&gt;Unreal Engine 5: Почему графика такая реалистичная?&lt;/h3&gt;
+&lt;p&gt;В мире современных видеоигр реалистичная графика стала ключевым компонентом, привлекающим игроков и заставляющим их погружаться в удивительные виртуальные миры. В этом отношении Unreal Engine 5, новейший движок разработки от Epic Games, стоит особняком. Его впечатляющая способность создавать удивительно реалистичные графические сцены поражает воображение, заставляя задаться вопросом: каким образом это удается?&lt;/p&gt;
+&lt;h4 id=&#34;глобальное-освещение-и-глобальное-освещение-lumen&#34;&gt;Глобальное освещение и глобальное освещение Lumen&lt;/h4&gt;
+&lt;p&gt;Одной из ключевых особенностей Unreal Engine 5 является его глобальное освещение. В предыдущих версиях движка освещение часто требовало дополнительной настройки и тонкой работы для достижения реалистичных результатов. Однако благодаря глобальному освещению Lumen, Unreal Engine 5 способен создавать удивительно естественные и динамические световые эффекты. Lumen позволяет реальному времени освещать сцены с помощью отражений, бликов и теней, что создает ошеломляющие визуальные результаты.&lt;/p&gt;
+&lt;h4 id=&#34;невероятная-детализация-благодаря-nanite&#34;&gt;Невероятная детализация благодаря Nanite&lt;/h4&gt;
+&lt;p&gt;Еще одной технологической инновацией Unreal Engine 5 является Nanite, система визуализации, позволяющая достичь невероятной детализации объектов в игровых сценах. В отличие от традиционных методов мешов и текстур, Nanite работает с микроскопическими деталями, обрабатывая каждый пиксель сцены независимо. Это позволяет создавать объекты с миллиардами полигонов, сохраняя при этом высокую производительность и безупречное качество графики.&lt;/p&gt;
+&lt;h4 id=&#34;фотореалистичные-анимации-благодаря-metahuman-creator&#34;&gt;Фотореалистичные анимации благодаря MetaHuman Creator&lt;/h4&gt;
+&lt;p&gt;Одной из самых захватывающих инноваций в Unreal Engine 5 является MetaHuman Creator, инструмент для создания фотореалистичных персонажей. Благодаря этому инструменту разработчики могут создавать уникальных персонажей с невероятной детализацией, которые выглядят почти так же реально, как люди. Сочетание MetaHuman Creator с другими технологиями Unreal Engine 5, такими как Lumen и Nanite, позволяет создавать невероятно реалистичные сцены с участием персонажей, что делает игровой мир еще более захватывающим и увлекательным.&lt;/p&gt;
+&lt;h4 id=&#34;заключение&#34;&gt;Заключение&lt;/h4&gt;
+&lt;p&gt;Unreal Engine 5 превосходит своих предшественников в создании реалистичной графики благодаря ряду инновационных технологий. Глобальное освещение Lumen, технология Nanite и инструмент MetaHuman Creator позволяют разработчикам создавать игровые миры, которые почти неотличимы от реальности. С появлением Unreal Engine 5 игроки могут ожидать еще более захватывающих и увлекательных визуальных впечатлений в своих любимых играх.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unreal Engine 5. Почему графика такая реалистичная?</title>
+      <link>http://localhost:1313/project/external-project/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/external-project/</guid>
+      <description>&lt;h3 id=&#34;unreal-engine-5-почему-графика-такая-реалистичная&#34;&gt;Unreal Engine 5: Почему графика такая реалистичная?&lt;/h3&gt;
+&lt;p&gt;В мире современных видеоигр реалистичная графика стала ключевым компонентом, привлекающим игроков и заставляющим их погружаться в удивительные виртуальные миры. В этом отношении Unreal Engine 5, новейший движок разработки от Epic Games, стоит особняком. Его впечатляющая способность создавать удивительно реалистичные графические сцены поражает воображение, заставляя задаться вопросом: каким образом это удается?&lt;/p&gt;
+&lt;h4 id=&#34;глобальное-освещение-и-глобальное-освещение-lumen&#34;&gt;Глобальное освещение и глобальное освещение Lumen&lt;/h4&gt;
+&lt;p&gt;Одной из ключевых особенностей Unreal Engine 5 является его глобальное освещение. В предыдущих версиях движка освещение часто требовало дополнительной настройки и тонкой работы для достижения реалистичных результатов. Однако благодаря глобальному освещению Lumen, Unreal Engine 5 способен создавать удивительно естественные и динамические световые эффекты. Lumen позволяет реальному времени освещать сцены с помощью отражений, бликов и теней, что создает ошеломляющие визуальные результаты.&lt;/p&gt;
+&lt;h4 id=&#34;невероятная-детализация-благодаря-nanite&#34;&gt;Невероятная детализация благодаря Nanite&lt;/h4&gt;
+&lt;p&gt;Еще одной технологической инновацией Unreal Engine 5 является Nanite, система визуализации, позволяющая достичь невероятной детализации объектов в игровых сценах. В отличие от традиционных методов мешов и текстур, Nanite работает с микроскопическими деталями, обрабатывая каждый пиксель сцены независимо. Это позволяет создавать объекты с миллиардами полигонов, сохраняя при этом высокую производительность и безупречное качество графики.&lt;/p&gt;
+&lt;h4 id=&#34;фотореалистичные-анимации-благодаря-metahuman-creator&#34;&gt;Фотореалистичные анимации благодаря MetaHuman Creator&lt;/h4&gt;
+&lt;p&gt;Одной из самых захватывающих инноваций в Unreal Engine 5 является MetaHuman Creator, инструмент для создания фотореалистичных персонажей. Благодаря этому инструменту разработчики могут создавать уникальных персонажей с невероятной детализацией, которые выглядят почти так же реально, как люди. Сочетание MetaHuman Creator с другими технологиями Unreal Engine 5, такими как Lumen и Nanite, позволяет создавать невероятно реалистичные сцены с участием персонажей, что делает игровой мир еще более захватывающим и увлекательным.&lt;/p&gt;
+&lt;h4 id=&#34;заключение&#34;&gt;Заключение&lt;/h4&gt;
+&lt;p&gt;Unreal Engine 5 превосходит своих предшественников в создании реалистичной графики благодаря ряду инновационных технологий. Глобальное освещение Lumen, технология Nanite и инструмент MetaHuman Creator позволяют разработчикам создавать игровые миры, которые почти неотличимы от реальности. С появлением Unreal Engine 5 игроки могут ожидать еще более захватывающих и увлекательных визуальных впечатлений в своих любимых играх.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Научные Языки Программирования</title>
+      <link>http://localhost:1313/post/%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B5-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B5-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <description>&lt;h3 id=&#34;научные-языки-программирования-основы-и-применения&#34;&gt;Научные Языки Программирования: Основы и Применения&lt;/h3&gt;
+&lt;p&gt;Языки программирования играют ключевую роль в различных областях, но в сфере науки они приобретают особое значение. Научные языки программирования специально разработаны для обработки данных, проведения научных исследований и моделирования различных явлений. В этой статье мы рассмотрим основные научные языки программирования, их особенности и применения.&lt;/p&gt;
+&lt;h4 id=&#34;1-python&#34;&gt;1. Python&lt;/h4&gt;
+&lt;p&gt;Python — один из самых популярных и универсальных языков программирования, широко используемый в научных исследованиях. Его простой и понятный синтаксис, обширная стандартная библиотека и множество сторонних модулей делают его привлекательным выбором для научных задач. Библиотеки такие как NumPy, SciPy, Pandas и Matplotlib предоставляют мощные инструменты для работы с данными, выполнения вычислений, визуализации результатов и многого другого.&lt;/p&gt;
+&lt;h4 id=&#34;2-r&#34;&gt;2. R&lt;/h4&gt;
+&lt;p&gt;R — язык программирования и среда разработки, специально созданные для статистического анализа и визуализации данных. Он популярен среди статистиков, аналитиков данных и исследователей, благодаря богатым возможностям работы с данными и созданию высококачественных графиков. R обладает обширным набором пакетов, таких как ggplot2, dplyr, tidyr и другие, которые делают анализ данных и построение статистических моделей более эффективными и удобными.&lt;/p&gt;
+&lt;h4 id=&#34;3-julia&#34;&gt;3. Julia&lt;/h4&gt;
+&lt;p&gt;Julia — относительно новый язык программирования, который заявляет о своей мощности и эффективности при вычислительных задачах. Он сочетает в себе простоту и читаемость Python с производительностью языков низкого уровня, таких как C и Fortran. Julia активно используется для вычислительной науки, моделирования, численных расчетов и параллельного программирования.&lt;/p&gt;
+&lt;h4 id=&#34;4-matlab&#34;&gt;4. MATLAB&lt;/h4&gt;
+&lt;p&gt;MATLAB — интегрированная среда для численных расчетов и визуализации данных, которая широко используется в инженерии, науке и образовании. Он предоставляет богатый набор инструментов для работы с математическими выражениями, моделирования систем, обработки сигналов, обработки изображений и многого другого. MATLAB обладает мощным языком программирования, который упрощает реализацию сложных алгоритмов и методов анализа данных.&lt;/p&gt;
+&lt;h4 id=&#34;заключение&#34;&gt;Заключение&lt;/h4&gt;
+&lt;p&gt;Научные языки программирования играют важную роль в современной науке, обеспечивая исследователей и специалистов по данным мощными инструментами для работы с информацией. Независимо от конкретной области научных исследований, существует подходящий язык программирования, который поможет решить поставленные задачи эффективно и удобно.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Оформление отчета</title>
       <link>http://localhost:1313/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
       <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
@@ -69,6 +125,16 @@
       <guid>http://localhost:1313/post/3-week/</guid>
       <description>&lt;h4 id=&#34;новые-темы-по-мат-логике-и-ан-геометрии&#34;&gt;Новые темы по мат логике и ан геометрии:&lt;/h4&gt;
 &lt;p&gt;Так как я написал контрольные по прошлым темам - сейчас начались новые. Всю неделю я уделил изучению нового материала по этим предметам&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Прошлая неделя 4</title>
+      <link>http://localhost:1313/post/4-week/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/4-week/</guid>
+      <description>&lt;h4 id=&#34;обычная-неделя&#34;&gt;Обычная неделя:&lt;/h4&gt;
+&lt;p&gt;На этой неделе не произошло ничего примечательного. Одна рутина и обыденность&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
@@ -277,27 +343,6 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Example Project</title>
-      <link>http://localhost:1313/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>http://localhost:1313/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/external-project/</guid>
-      <description></description>
     </item>
     
     <item>
